@@ -8,7 +8,15 @@ Write a method to insert Minto N such that Mstarts at bit j and ends at bit i. Y
 This question is from Cracking Coding Interview 6th Edition, but the posted solution is my solution.
 
 
-### 2...
+### 2. Fraction Binary To String
+
+Given a real number between 0 and 1 (e.g., 0.72) that is passed in as a double,
+print the binary representation. If the number cannot be represented accurately in binary with at most 32 characters, print"ERROR:'
+
+This question is from Cracking Coding Interview 6th Edition, but the posted solution is my solution.
+
+
+
 
 (updating)
 
