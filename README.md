@@ -26,7 +26,14 @@ print the binary representation. If the number cannot be represented accurately 
 This question is from Cracking Coding Interview 6th Edition, but the posted solution is my solution.
 
 
+### 3. Logical Right Shift in Python
 
+Since there is no built-in Logical Right Shift operator ('>>>'), make a function for it.
+
+```
+   Input : 1111, 1
+   Output : 0111
+```
 
 (updating)
 
