@@ -35,8 +35,22 @@ Since there is no built-in Logical Right Shift operator ('>>>'), make a function
    Output : 0111
 ```
 
-(updating)
+### 4. Two different ways of counting # of 1's that are different between A and B
+
+```
+   Input : 1111, 1011
+   Output : 1
+
+   Input : 11011001, 10111000
+   Output : 3
+```
+
+
+### 5.
+
+
+(will be more updating ...)
 
 
 ## License
-Copyright [2017] [Dan Choe](https://github.com/dan-choe)
+Copyright [2017] [Dan Choe](devdanchoe@gmail.com)
